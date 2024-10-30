@@ -22,6 +22,7 @@ public class Runner {
         System.out.println("------------------------");
         System.out.println("************************");
 
-        // localde değişiklik
+        // emircan remote
+        System.out.println("************************");
     }
 }
