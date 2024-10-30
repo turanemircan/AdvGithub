@@ -21,5 +21,7 @@ public class Runner {
         // emircan
         System.out.println("------------------------");
         System.out.println("************************");
+
+        // localde değişiklik
     }
 }
