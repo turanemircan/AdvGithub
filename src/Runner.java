@@ -8,5 +8,8 @@ public class Runner {
 
         // Version 3
         System.out.println("Version 3");
+
+        // emircan
+        System.out.println("emircan 1");
     }
 }
