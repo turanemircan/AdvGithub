@@ -17,5 +17,9 @@ public class Runner {
 
         // emircan
         System.out.println("emircan 3");
+
+        // emircan
+        System.out.println("------------------------");
+        System.out.println("************************");
     }
 }
